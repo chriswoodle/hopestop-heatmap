@@ -5,12 +5,13 @@
   <title>HopeStop</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body {margin: 0; font-family: sans-serif; width: 100vw; height: 100vh; overflow: hidden;}
-    .tooltip {pointer-events: none; position: absolute; z-index: 9; font-size: 12px; padding: 8px; background: #000; color: #fff; min-width: 160px; max-height: 240px; overflow-y: hidden;}
+    body {margin: 0; font-family: sans-serif; width: 100vw; height: 100vh; overflow: hidden; position: relative;}
+    #tooltip {background: rgba(0,0,0,0.5); color: #fff; width: 100px; text-align: center; padding: 5px;}
   </style>
 </head>
 <body>
 <div id="app"></div>
+<div id="tooltip" style="position: absolute; z-index: 1, pointer-events: none;"> </div>
 </body>
 <script type="text/javascript" src="./bundle.js"></script>
 <script type="text/javascript">

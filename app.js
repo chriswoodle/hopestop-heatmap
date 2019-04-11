@@ -138,9 +138,9 @@ export class App extends Component {
         elevationScale: this.state.elevationScale,
         extruded: true,
         getPosition: d => d,
-        onHover: this.props.onHover,
+        onHover: info => setTooltip(info.object, info.x, info.y),
         opacity: 0.7,
-        pickable: Boolean(this.props.onHover),
+        pickable: true,
         radius,
         upperPercentile,
         material
@@ -202,4 +202,17 @@ function getData(geo) {
       return [0, 0]
     }
   })
+}
+
+function setTooltip(object, x, y) {
+  const el = document.getElementById('tooltip');
+  console.log(x,y)
+  if (object) {
+    el.innerHTML = `${object.points.length} locations`;
+    el.style.display = 'block';
+    el.style.left = x - 50 + 'px';
+    el.style.top = y - 40 + 'px';
+  } else {
+    el.style.display = 'none';
+  }
 }
