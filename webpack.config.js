@@ -11,6 +11,8 @@ const CONFIG = {
   },
 
   output: {
+    path: __dirname + '/docs',
+    filename: 'bundle.js',
     library: 'App'
   },
 

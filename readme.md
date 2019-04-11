@@ -16,4 +16,6 @@ npm install
 yarn
 # bundle and serve the app with webpack
 npm start
+# Build static site
+npm run build
 ```
