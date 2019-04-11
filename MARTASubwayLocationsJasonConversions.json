@@ -1,0 +1,499 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Airport†",
+    "addresses":"6000 S Terminal Pkwy, Atlanta, GA 30337",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Arts Center",
+    "addresses":"1255 W Peachtree St NW Atlanta, GA 30309",
+    "latitude":"33,767,885",
+    "longitude":"-84,387,424"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Ashby",
+    "addresses":"65 Joseph E Lowery Blvd, Atlanta, GA 30314",
+    "latitude":"33,77836",
+    "longitude":"-84,417,339"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Avondale",
+    "addresses":"915 E. Ponce de Leon Avenue, Decatur, GA 30030",
+    "latitude":"33,771,013",
+    "longitude":"-84,29,873"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Bankhead†",
+    "addresses":"1335 Donald Hollowell Pkwy, Atlanta, GA 30318",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Brookhaven/Oglethorpe",
+    "addresses":"4047 Peachtree Road NE, Atlanta, GA 30319",
+    "latitude":"33,81688",
+    "longitude":"-84,389,738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Buckhead",
+    "addresses":"3360 Peachtree Rd NE, Atlanta, GA 30326",
+    "latitude":"33,81688",
+    "longitude":"-84,389,738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Chamblee",
+    "addresses":"5200 New Peachtree Rd, Chamblee, GA 30341",
+    "latitude":"33,887,509",
+    "longitude":"-84,306,403"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Civic Center",
+    "addresses":"435 West Peachtree Street Northwest, Atlanta, GA 30308",
+    "latitude":"33,766,455",
+    "longitude":"-84,387,352"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"College Park",
+    "addresses":"3800 Main St, Atlanta, GA 30337",
+    "latitude":"33,69,839",
+    "longitude":"-84,429,439"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Decatur",
+    "addresses":"400 Church St, Decatur, GA 30030",
+    "latitude":"33,777,269",
+    "longitude":"-84,294,846"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Dome/GWCC/Philips Arena/CNN Center",
+    "addresses":"100 Centennial Olympic Park Dr NW, Atlanta, GA 30303",
+    "latitude":"33,757,332",
+    "longitude":"-84,396,353"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Doraville†",
+    "addresses":"6000 New Peachtree Rd, Doraville, GA 30340",
+    "latitude":"33,902,358",
+    "longitude":"-84,280,619"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Dunwoody",
+    "addresses":"1200 Hammond Dr Atlanta, GA 30328",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"East Lake",
+    "addresses":"2260 College Avenue, Atlanta, GA 30307",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"East Point",
+    "addresses":"2848 East Main Street, East Point, GA 30344",
+    "latitude":"33,683,411",
+    "longitude":"-84,455,878"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Edgewood/Candler Park",
+    "addresses":"1475 DeKalb Avenue NE,  Atlanta, GA 30307",
+    "latitude":"33,761,805",
+    "longitude":"-84,339,886"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Five Points*",
+    "addresses":"30 Alabama St SW, Atlanta, GA 30303",
+    "latitude":"33,753,759",
+    "longitude":"-84,39,108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Garnett",
+    "addresses":"225 Peachtree St SW, Downtown, Atlanta, GA 30303",
+    "latitude":"33,750,948",
+    "longitude":"-84,393,021"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Georgia State",
+    "addresses":"170 Piedmont Avenue SE, Atlanta, GA 30303",
+    "latitude":"33,750,081",
+    "longitude":"-84,385,892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"H. E. Holmes†",
+    "addresses":"70 Hamilton E Holmes Dr NW, Atlanta, GA 30311",
+    "latitude":"33,754,046",
+    "longitude":"-84,468,761"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Indian Creek†",
+    "addresses":"3901 Durham Park Rd, Stone Mountain, GA 30083",
+    "latitude":"33,806,483",
+    "longitude":"-84,170,937"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Inman Park/Reynoldstown",
+    "addresses":"1055 DeKalb Ave NE, Atlanta, GA 30307",
+    "latitude":"33,75312",
+    "longitude":"-84,365,459"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Kensington",
+    "addresses":"3350 Kensington Rd, Decatur, GA 30032",
+    "latitude":"33,771,013",
+    "longitude":"-84,29,873"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"King Memorial",
+    "addresses":"377 Decatur St SE & Grant Street, Atlanta, GA 30312",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Lakewood/Fort McPherson",
+    "addresses":"2020 Lee St SW, Atlanta, GA 30310",
+    "latitude":"33,735,705",
+    "longitude":"-84,414,101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Lenox",
+    "addresses":"955 East Paces Ferry Rd NE, Atlanta, GA 30326",
+    "latitude":"33,840,721",
+    "longitude":"-84,365,735"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Lindbergh Center",
+    "addresses":"2424 Piedmont Road NE, Atlanta, GA 30324",
+    "latitude":"33,823,913",
+    "longitude":"-84,368,656"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Medical Center",
+    "addresses":"5711 Peachtree-Dunwoody Road Northeast, Atlanta, GA 30342",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Midtown",
+    "addresses":"41 10th St NE, Atlanta, GA 30309",
+    "latitude":"33,781,278",
+    "longitude":"-84,386,967"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"North Avenue",
+    "addresses":"713 Peachtree St NW, Atlanta, GA 30308",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"North Springs†",
+    "addresses":"7010 Peachtree Dunwoody Rd, Sandy Springs, GA 30328",
+    "latitude":"33,946,328",
+    "longitude":"-84,354,859"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Oakland City",
+    "addresses":"1400 Lee Street Southwest, Atlanta, GA",
+    "latitude":"33,735,705",
+    "longitude":"-84,414,101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Peachtree Center",
+    "addresses":"216 Peachtree Street, Atlanta, GA 30308",
+    "latitude":"33,797,482",
+    "longitude":"-84,389,623"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Sandy Springs",
+    "addresses":"Perimeter Center W, Sandy Springs, GA 30328",
+    "latitude":"33,925,381",
+    "longitude":"-84,37,964"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"Vine City",
+    "addresses":"502 Rhodes St NW, Atlanta, GA 30314",
+    "latitude":"33.7569",
+    "longitude":"-84,406,414"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"West End",
+    "addresses":"680 Lee St SW, Atlanta, GA 30310",
+    "latitude":"33,736,048",
+    "longitude":"-84,413,624"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SubwayStations":"West Lake",
+    "addresses":"30 Anderson Ave SW,  Atlanta, GA 30314\n",
+    "latitude":"33,754,398",
+    "longitude":"-84,446,024"
+    }
+  }
+]
+}

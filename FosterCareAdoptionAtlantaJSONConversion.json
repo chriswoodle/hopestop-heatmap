@@ -1,0 +1,161 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Bethany Christian Services",
+    "Addresses":"6645 Peachtree Dunwoody Rd, Atlanta, GA 30328",
+    "latitude":"33,858,539",
+    "longitude":"-84,357,992"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Multi- Agency Alliance for Children",
+    "Addresses":"225 Peachtree St NE #900, Atlanta, GA 30303",
+    "latitude":"33,760,167",
+    "longitude":"-84,387,029"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Great Heights Foster Care",
+    "Addresses":"3340 Peachtree Rd Building 100 - Suite 1800, Atlanta, GA 30326",
+    "latitude":"33,846,986",
+    "longitude":"-84,371,905"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Georgia Association Homes & Services Child",
+    "Addresses":"34 Peachtree St # 2230, Atlanta, GA 30303",
+    "latitude":"33,797,482",
+    "longitude":"-84,389,623"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Families First",
+    "Addresses":"80 Joseph E. Lowery Blvd NW, Atlanta, GA 30314",
+    "latitude":"33,757,229",
+    "longitude":"-84,418,275"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Georgia Center for Resources",
+    "Addresses":"1105 W Peachtree St NE, Atlanta, GA 30309",
+    "latitude":"33,784,775",
+    "longitude":"-84,387,526"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Inspiritus/Lutheran Services of Georgia",
+    "Addresses":"230 Peachtree St #1100, Atlanta, GA 30303",
+    "latitude":"33,797,482",
+    "longitude":"-84,389,623"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Child Care Licensing Section",
+    "Addresses":"10 Park Place South SE #600, Atlanta, GA 30303",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"New Beginnings Life Changing Agency",
+    "Addresses":"50 Hurt Plaza SE #1641, Atlanta, GA 30303",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"Families First -Harris Johnston Office",
+    "Addresses":"25 Newcastle St SW, Atlanta, GA 30314",
+    "latitude":"33,754,026",
+    "longitude":"-84,418,928"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"My Turn Now",
+    "Addresses":"2 Peachtree Street Northwest # 8-104, Atlanta, GA 30303",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FosterCareServices":"ResCare Family & Youth Services ",
+    "Addresses":"2296 Henderson Mill Rd Suite 203, Atlanta, GA 30345",
+    "latitude":"33,769,805",
+    "longitude":"-84,414,581"
+    }
+  }
+]
+}

@@ -1,0 +1,425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.330871,33.745264 ]
+    },
+    "properties": {
+    "schoolNames":"Alonzo A. Crim High School",
+    "addresses":"256 Clifton St SE, Atlanta, GA, USA",
+    "zip":30317
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.376126,33.735785 ]
+    },
+    "properties": {
+    "schoolNames":"Atlanta Neighborhood Charter School",
+    "addresses":"688 Grant St., SE, Atlanta, GA, USA",
+    "zip":30315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.414581,33.769805 ]
+    },
+    "properties": {
+    "schoolNames":"Booker T. Washington High School",
+    "addresses":"45 Whitehouse Dr., NW, Atlanta, GA, USA",
+    "zip":30314
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.421768,33.734104 ]
+    },
+    "properties": {
+    "schoolNames":"Brown Middle School",
+    "addresses":"765 Peeples St., SW, Atlanta, GA , USA",
+    "zip":30310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.530619,33.70107 ]
+    },
+    "properties": {
+    "schoolNames":"Ralph J. Bunche Middle School",
+    "addresses":"1925 Niskey Lake Rd., SW , Atlanta, GA, USA ",
+    "zip":30331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.386178,33.719924 ]
+    },
+    "properties": {
+    "schoolNames":"Carver High School",
+    "addresses":"55 McDonough Blvd., SE, Atlanta, GA , USA ",
+    "zip":30315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.386178,33.719924 ]
+    },
+    "properties": {
+    "schoolNames":"Carver Early High School",
+    "addresses":"55 McDonough Blvd., SE, Atlanta, GA, USA ",
+    "zip":30315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.395788,33.769086 ]
+    },
+    "properties": {
+    "schoolNames":"Centennial Academy",
+    "addresses":"531 Luckie St., NW, Atlanta, GA , USA ",
+    "zip":30313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.479297,33.788688 ]
+    },
+    "properties": {
+    "schoolNames":"Coretta Scott King YWLA",
+    "addresses":"1190 Northwest Dr., NW,  Atlanta, GA, USA ",
+    "zip":30318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.48914,33.699321 ]
+    },
+    "properties": {
+    "schoolNames":"Daniel McLaughlin Therrell High School",
+    "addresses":"3099 Panther Trail, SW , Atlanta, GA, USA",
+    "zip":30311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.48914,33.699321 ]
+    },
+    "properties": {
+    "schoolNames":"The ForrestHill Academy",
+    "addresses":"3099 Panther Trail, SW , Atlanta, GA, USA",
+    "zip":30311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.468203,33.761155 ]
+    },
+    "properties": {
+    "schoolNames":"Frederick Douglass High School",
+    "addresses":"225 Hamilton E. Holmes Dr., NW , Atlanta, GA, USA",
+    "zip":30318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.371519,33.781198 ]
+    },
+    "properties": {
+    "schoolNames":"Henry W. Grady High School",
+    "addresses":"929 Charles Allen Dr., NE , Atlanta, GA, USA",
+    "zip":30309
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.491372,33.767851 ]
+    },
+    "properties": {
+    "schoolNames":"Harper - Archer Middle School",
+    "addresses":"3399 Collier Dr., NW , Atlanta, GA, USA",
+    "zip":30331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.365384,33.790878 ]
+    },
+    "properties": {
+    "schoolNames":"Hillside Covenant School",
+    "addresses":"690 Courtenay Dr., NE , Atlanta, GA, USA",
+    "zip":30306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.362801,33.782353 ]
+    },
+    "properties": {
+    "schoolNames":"Samuel M. Inman Middle School",
+    "addresses":"774 Virginia Ave., NE , Atlanta, GA, USA",
+    "zip":30306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.448853,33.774626 ]
+    },
+    "properties": {
+    "schoolNames":"J.L. Invictus Academy",
+    "addresses":"1890 Donald Lee Hollowell Pkwy., NW , Atlanta, GA, USA",
+    "zip":30318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.513654,33.754708 ]
+    },
+    "properties": {
+    "schoolNames":"Kindezi West Lake",
+    "addresses":"286 Wilson Mill Rd., SW, Atlanta, GA , USA",
+    "zip":30331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.379081,33.738992 ]
+    },
+    "properties": {
+    "schoolNames":"M.L.K., Jr. Middle School",
+    "addresses":"545 Hill St., SE, Atlanta, GA , USA",
+    "zip":30312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.452389,33.756873 ]
+    },
+    "properties": {
+    "schoolNames":"K.I.P.P. ATL Collegiate Academy",
+    "addresses":"98 Anderson Ave., NW, Atlanta, GA , USA",
+    "zip":30314
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.434683,33.742471 ]
+    },
+    "properties": {
+    "schoolNames":"K.I.P.P. Strive Academy",
+    "addresses":"1444 Lucile Ave., SW , Atlanta, GA , USA",
+    "zip":30310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.366354,33.689521 ]
+    },
+    "properties": {
+    "schoolNames":"K.I.P.P. Vision Academy",
+    "addresses":"660 McWilliams Rd., SE, Atlanta, GA, USA ",
+    "zip":30315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.422556,33.764139 ]
+    },
+    "properties": {
+    "schoolNames":"K.I.P.P. West ATL Young Scholars Academy",
+    "addresses":"350 Temple St., NW, Atlanta, GA , USA",
+    "zip":30314
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.395261,33.66669 ]
+    },
+    "properties": {
+    "schoolNames":"Crawford W. Long MIddle School",
+    "addresses":"3200 Latona Dr., SW , Atlanta, GA , USA",
+    "zip":30354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.361616,33.739587 ]
+    },
+    "properties": {
+    "schoolNames":"Maynard H. Jackson High School",
+    "addresses":"801 Glenwood Ave., SE , Atlanta, GA, USA",
+    "zip":30316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.503863,33.733647 ]
+    },
+    "properties": {
+    "schoolNames":"Benjamin E. Mays High School",
+    "addresses":"3450 Benjamin E. Mays Dr., SW , Atlanta, GA , USA",
+    "zip":30331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.445959,33.86676 ]
+    },
+    "properties": {
+    "schoolNames":"North Atlanta High School",
+    "addresses":"4111 Northside Pkwy., NW , Atlanta, GA , USA",
+    "zip":30327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.414581,33.769805 ]
+    },
+    "properties": {
+    "schoolNames":"Price Middle School",
+    "addresses":"1670 Benjamin W. Bickers Dr., SW , Atlanta, GA , USA",
+    "zip":30315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.361872,33.671024 ]
+    },
+    "properties": {
+    "schoolNames":"South Atlanta High School",
+    "addresses":"800 Hutchens Rd., SE , Atlanta, GA , USA",
+    "zip":30354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.406396,33.832478 ]
+    },
+    "properties": {
+    "schoolNames":"Sutton Middle School",
+    "addresses":"2875 Northside Dr., NW , Atlanta, GA , USA",
+    "zip":30305
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.418636,33.714955 ]
+    },
+    "properties": {
+    "schoolNames":"Sylvan Hills Middle School",
+    "addresses":"1461 Sylvan Rd., SW , Atlanta, GA , USA",
+    "zip":30310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.381097,33.746454 ]
+    },
+    "properties": {
+    "schoolNames":"Wesley International Academy",
+    "addresses":"211 Memorial Dr., SE , Atlanta, GA, USA ",
+    "zip":30312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.330871,33.745264 ]
+    },
+    "properties": {
+    "schoolNames":"West End Academy",
+    "addresses":"256 Clifton St., SE , Atlanta, GA , USA",
+    "zip":30317
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.443811,33.771927 ]
+    },
+    "properties": {
+    "schoolNames":"Woodson Park Academy",
+    "addresses":"20 Evelyn Way, NW , Atlanta, GA , USA",
+    "zip":30318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.489735,33.733032 ]
+    },
+    "properties": {
+    "schoolNames":"Young Middle School",
+    "addresses":"3116 Benjamin E. Mays Dr., SW ,Atlanta, GA , USA",
+    "zip":30311
+    }
+  }
+]
+}

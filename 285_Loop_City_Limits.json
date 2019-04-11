@@ -1,0 +1,656 @@
+{
+    "type": "FeatureCollection",
+    "name": "285 Loop City Limits",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Washington Rd - Exit 1",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.492245,
+                    33.636632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Camp Creek Pkwy SW - Exit 2",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.497566,
+                    33.656424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cambleton Rd, Lakewood Fwy - Exit 5AB",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.500055,
+                    33.690281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cascade Rd - Exit 7",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.50263,
+                    33.722983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Martin Luther King Jr Dr SW - Exit 9",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.495506,
+                    33.753532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-20 - Exit 10AB",
+                "description": "Atlanta (Fulton county) -<br>Meets I-285 twice see also Exit 46AB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.493361,
+                    33.764842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "US-278 - Donald Lee Hollowell Pky - Exit 12",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.493146,
+                    33.786852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bolton Rd - Exit 13",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.488468,
+                    33.799477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-280 S Cobb Dr - Exit 15",
+                "description": "Smyrna (Cobb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.489541,
+                    33.825221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Atlanta Rd - Exit 16",
+                "description": "Smyrna (Cobb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.487481,
+                    33.843117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Paces Ferry Rd SE - Exit 18",
+                "description": "Smyrna (Cobb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.479628,
+                    33.86418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cobb Pkwy SE - Exit 19",
+                "description": "Atlanta (Cobb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.470015,
+                    33.884418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-75 - Exit 20 AB",
+                "description": "Marietta (Cobb) - meets I-285 twice see also Eixt 78 - very conjested and dangerous interchange"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.460917,
+                    33.890296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Northside Dr NW - Exit 22",
+                "description": "Atlanta (Fulton)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.431992,
+                    33.906397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Riverside Dr NW - Exit 24",
+                "description": "Atlanta (Fulton)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.406672,
+                    33.915942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Roswell Rd NE - Exit 25",
+                "description": "Atlanta (Fulton)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.379163,
+                    33.912167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Glenridge Dr - Exit 26",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.361782,
+                    33.910208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-400 - Exit 27",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.357147,
+                    33.912024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Peachtree Dunwoody Rd NE - Exit 28",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.352083,
+                    33.913769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ashford Dunwoody Rd - Exit 29",
+                "description": "Atlanta (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.338307,
+                    33.918007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chamblee Dunwoody Rd - Exit 30",
+                "description": "N Peachtree Rd -<br>N Shallowford Rd -<br>Atlanta (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.30522,
+                    33.920322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-141 Peachtree Indus Blvd - Exit 31AB",
+                "description": "Doraville (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.286294,
+                    33.912986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "US-23 Buford Hwy NE - Exit 32",
+                "description": "Doraville (Dekalb county) - US-23 meets I-285 twice see Exit 52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.274063,
+                    33.902906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-85 - Exit 33AB",
+                "description": "Doraville (Dekalb county) - meets I-285 twice see also Exit 62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2593,
+                    33.891757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chamblee Tucker Rd - Exit 34",
+                "description": "Doraville (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.251575,
+                    33.885487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Northlake Pkwy NE - Exit 36",
+                "description": "Tucker (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.246597,
+                    33.851261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-236 Lavista Rd - Exit 37",
+                "description": "Tucker (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.247198,
+                    33.846431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "US-29 Lawrenceville hwy - Exit 38",
+                "description": "Tucker (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.252477,
+                    33.827218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "US-78 Stone Mountain Fwy - Exit 39AB",
+                "description": "Tucker (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.251447,
+                    33.816023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "E Ponce De Leon Ave, E Church St - Exit 40",
+                "description": "Clarkston (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.250138,
+                    33.802936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-10 Memorial Dr - Exit 41",
+                "description": "Decatur (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.241297,
+                    33.778184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Indian Creek MARTA Station - Exit 42",
+                "description": "Decatur (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.232392,
+                    33.764753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "US-278 Covington Hwy - Exit 43",
+                "description": "Decatur (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.231899,
+                    33.752604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Glenwood Rd - Exit 44",
+                "description": "Decatur (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.230762,
+                    33.737171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-20 - Exit 46AB",
+                "description": "Decatur (Dekalb county) - meets I-285 twice see Exit 10AB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.240954,
+                    33.714702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-155 Flat Shoals Rd - Exit 48",
+                "description": "Decatur (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.266081,
+                    33.698994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bouldercrest Rd SE - Exit 51",
+                "description": "Atlanta (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.310048,
+                    33.683997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-675 - Exit 52",
+                "description": "Atlanta (Dekalb county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.328415,
+                    33.672854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "US-23 Moreland Ave - Exit 52",
+                "description": "Atlanta (Dekalb county) - US-23 meets I-285 twice see also Exit 32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.340324,
+                    33.668015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jonesboro Rd SE - Exit 55",
+                "description": "Atlanta (Fulton county)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.367125,
+                    33.65203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-75 - Exit 58",
+                "description": "Access to US-19-41 - Access to Airport Loop Rd - Forest Park (Clayton County) - - I-75 meets I-285 twice see Exit 20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.400975,
+                    33.633023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clark Howell Hwy - Exit 59",
+                "description": "Atlanta (Clayton county) - Access to Jackson Hartfiled Intl Airport"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.422486,
+                    33.624894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-139 Riverdale Rd - Exit 60",
+                "description": "Atlanta (Clayton county) - access to Hartsfield Jackson Int'l Airport"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.438515,
+                    33.617139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-85 - Exit 61",
+                "description": "I-85 northbound and southbound ramps very long- Access to Airport- College Park (Fulton county) - I-285 and I-85 share same roadway MM 61-62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.460616,
+                    33.620516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I-85 - Exit 61",
+                "description": "I-85 northbound and southbound ramps very long - College Park (Fulton county) - I-285 and I-85 share the same roadway between MM 61-62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.483039,
+                    33.619319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GA-14 Fulton Pkwy - Exit 62",
+                "description": "College Park (Fulton county)<br>Access to US-29 Roosevelt Hwy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.488318,
+                    33.623143
+                ]
+            }
+        }
+    ]
+}
